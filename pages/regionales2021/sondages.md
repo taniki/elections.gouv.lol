@@ -31,3 +31,9 @@ eleventyNavigation:
 
 <iframe width="100%" height="436" frameborder="0"
   src="https://observablehq.com/embed/@taniki/regionales2021-sondages-suivi?cells=hypothesesPremierTourChart"></iframe>
+
+
+## Timeline des sondages
+
+<iframe width="100%" height="1540" frameborder="0"
+  src="https://observablehq.com/embed/@taniki/regionales2021-sondages-suivi?cells=sondagesTimeline"></iframe>
