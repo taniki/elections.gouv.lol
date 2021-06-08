@@ -4,6 +4,7 @@ title: Les sondages
 eleventyNavigation:
   key: presidentielle2022-sondages
   parent: presidentielle2022
+  order: 2
 ---
 
 ## Historique des sondages
