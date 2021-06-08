@@ -1,6 +1,8 @@
 ---
 title: Les sondages
 
+layout: base
+
 eleventyNavigation:
   key: presidentielle2022-sondages
   parent: presidentielle2022

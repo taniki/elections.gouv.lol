@@ -1,10 +1,10 @@
 ---
 title: Les élections
 
+layout: base.pug
+
 eleventyNavigation:
   key: home
 ---
-
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
 
 WIP j'ai meme pas encore calé la structure des permaliens

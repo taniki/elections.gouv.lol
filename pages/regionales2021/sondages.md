@@ -1,4 +1,7 @@
 ---
+
+layout: base
+
 eleventyNavigation:
   key: regionales2021-sondages
   parent: regionales2021

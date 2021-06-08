@@ -1,5 +1,7 @@
 ---
-title: Les sondages
+title: Intentions de vote
+
+layout: base
 
 eleventyNavigation:
   key: presidentielle2022-intentions
