@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@11ty/eleventy-navigation": "^0.2.0"
+  }
+}
